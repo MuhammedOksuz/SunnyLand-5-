@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 993c2bf8f6508804f93864f13ed9836f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tankObje: {instanceID: 0}
+  - rightTarget: {instanceID: 0}
+  - leftTarget: {instanceID: 0}
+  - bullet: {fileID: 7186013249286791112, guid: b154c4e102be0c34e9d806ad32c64ea0, type: 3}
+  - bulletOut: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - tankUpDamage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
